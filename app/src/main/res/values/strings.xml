@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Android Version</string>
+
+    <string-array name="android_versions">
+        <item>Alpha</item>
+        <item>Beta</item>
+        <item>Cup Cake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jellybean</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+        <item>Q</item>
+        <item>Red velvet Cake</item>
+
+
+    </string-array>
+</resources>
